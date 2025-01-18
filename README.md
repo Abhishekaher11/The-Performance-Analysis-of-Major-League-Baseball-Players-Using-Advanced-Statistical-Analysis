@@ -34,7 +34,4 @@ This project analyzes baseball performance metrics using datasets for hitters an
 
 ---
 
-## **Setup Instructions**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/baseball-analysis.git
+ 
