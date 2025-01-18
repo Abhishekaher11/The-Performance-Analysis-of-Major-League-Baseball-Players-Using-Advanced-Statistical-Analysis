@@ -28,9 +28,9 @@ This project analyzes baseball performance metrics using datasets for hitters an
   - `baseball_hitting.csv`: Hitter performance dataset.
   - `baseball_pitcher.csv`: Pitcher performance dataset.
 - **notebooks/**
-  - `pythonfile.ipynb`: Contains the full analysis and visualizations.
+  - `pythonfile(1).ipynb`: Contains the full analysis and visualizations.
 - **reports/**
-  - `Assignmentpdf.pdf`: Documentation for the project goals and objectives.
+  - `MLBpdf.pdf`: Documentation for the project goals and objectives.
 
 ---
 
