@@ -1,0 +1,2 @@
+# The-Performance-Analysis-of-Major-League-Baseball-Players-Using-Advanced-Statistical-Analysis
+This project analyzes baseball performance metrics using hitter and pitcher datasets. It provides insights through descriptive and comparative analysis, visualizations, and key statistical trends. The goal is to explore patterns and relationships in player performance, aiding data-driven decisions in baseball.
